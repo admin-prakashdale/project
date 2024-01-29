@@ -1,2 +1,2 @@
 # project
-Project management
+Project management software
